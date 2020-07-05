@@ -1,0 +1,2 @@
+Prefix plugins/LabelDups/example
+Plugin LabelDups inputfile test.csv outputfile test.labeldups.csv
